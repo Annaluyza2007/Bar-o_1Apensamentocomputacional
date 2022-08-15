@@ -1,2 +1,2 @@
-# Barao1A_pensamentocomputacional
+# Barao1A-pensamentocomputacional
 Projeto de um site em HDML e CSS.
